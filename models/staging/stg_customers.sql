@@ -1,4 +1,6 @@
----fdsfdssdf
+-- I'm adding these lines to create
+-- a merge conflict in dbt Studio
+
 with
 
 source as (
